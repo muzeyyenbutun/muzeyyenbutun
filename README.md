@@ -1,6 +1,6 @@
 <!-- 🌟 Personal Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E86C1&center=true&width=1000&lines=Muzeyyen+Butun+-+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E86C1&center=true&width=1000&lines=Computer+Engineer+-+Full+Stack+Developer" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi there, I'm Müzeyyen! 👩‍💻</h1>
@@ -53,21 +53,51 @@
 
 ---
 
-### 🏅 Certifications & Achievements
+### 🏆 Badges & Achievements (Coursera & Google)
 
-<p align="center">
-  <img width="150" height="150" src="https://github.com/user-attachments/assets/4c8ec5f4-57c5-4a00-a84b-b10657993ee6" />
-  <img width="150" height="150" src="https://github.com/user-attachments/assets/7d1e241b-a112-4a0a-8de9-8cd6746d0552" />
-  <img width="150" height="150" src="https://github.com/user-attachments/assets/a037e937-c9ee-498c-95d8-75ed3868ca09" />
-  <img width="150" height="150" src="https://github.com/user-attachments/assets/1cb79cf8-2236-40a6-bd3a-d7695d6ff3e7" />
-  <img width="150" height="150" src="https://github.com/user-attachments/assets/752cacc6-a727-4086-8f3c-009f6be64692" />
-  <img width="150" height="150" src="https://github.com/user-attachments/assets/f8be594e-a96d-49c1-8cfe-c3486d9ebfd7" />
-</p>
-
-<p align="center">
-  <b>Issued by:</b> IBM & Google via Coursera <br/>
-  <i>Covering areas such as Agile, AI, Software Engineering, Project Management, and People Skills</i>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+    <img width="150" height="150" alt="software-engineering-essentials" src="https://github.com/user-attachments/assets/4c8ec5f4-57c5-4a00-a84b-b10657993ee6" /><br/>
+      <b>Software Engineering Essentials</b><br/>
+      Coursera / IBM<br/>
+      <i>Issued: Jul 3, 2025</i>
+    </td>
+    <td align="center">
+      <img width="150" height="150" alt="google-ai-essentials-v1" src="https://github.com/user-attachments/assets/7d1e241b-a112-4a0a-8de9-8cd6746d0552" /><br/>
+      <b>Google AI Essentials V1</b><br/>
+      Coursera / Google<br/>
+      <i>Issued: Jul 4, 2025</i>
+    </td>
+    <td align="center">
+<img width="150" height="150" alt="peoplesofskills" src="https://github.com/user-attachments/assets/a037e937-c9ee-498c-95d8-75ed3868ca09" /> <br/>
+      <b>People and Soft Skills Essentials</b><br/>
+      Coursera / IBM<br/>
+      <i>Issued: Jul 6, 2025</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="150" height="150" alt="google-agile-essentials" src="https://github.com/user-attachments/assets/1cb79cf8-2236-40a6-bd3a-d7695d6ff3e7" /> <br/>
+      <b>Google Agile Essentials</b><br/>
+      Coursera / Google<br/>
+      <i>Issued: Jul 9, 2025</i>
+    </td>
+    <td align="center">
+  <img width="150" height="150" alt="introduction-to-agile-development-and-scrum" src="https://github.com/user-attachments/assets/752cacc6-a727-4086-8f3c-009f6be64692" /><br/>
+      <b>Agile Development & Scrum</b><br/>
+      Coursera / IBM<br/>
+      <i>Issued: Jul 9, 2025</i>
+    </td>
+    <td align="center">
+<img width="150" height="150" alt="project-management-essentials" src="https://github.com/user-attachments/assets/f8be594e-a96d-49c1-8cfe-c3486d9ebfd7" />
+      <br/>
+      <b>Project Management Essentials</b><br/>
+      Coursera / IBM<br/>
+      <i>Issued: Jul 9, 2025</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
