@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=2E86C1&center=true&width=1000&lines=Computer+Engineer+-+Full+Stack+Developer" alt="Typing SVG" />
 </p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muzeyyenbutun&theme=vue" alt="GitHub Achievements Summary Card" />
+</div>
 
 <h1 align="center">Hi there, I'm Müzeyyen! 👩‍💻</h1>
 <h3 align="center">BSc Computer Engineer | MSc Software Engineer | Full Stack Developer 🌍</h3>
@@ -46,10 +49,24 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzeyyenbutun&show_icons=true&theme=rose_pine&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzeyyenbutun&layout=compact&theme=rose_pine&langs_count=8" width="48%" alt="Top Languages" />
-</p>
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzeyyenbutun&theme=radical" width="32%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzeyyenbutun&show_icons=true&theme=rose_pine&include_all_commits=true&rank_icon=github" width="32%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzeyyenbutun&layout=compact&theme=rose_pine&langs_count=8" width="32%" alt="Top Languages" /></div></br></br>
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muzeyyenbutun&theme=flat&column=8" alt="trophy" /></br></br>
+  </a>
+</div>
+
+![GitHub followers](https://img.shields.io/github/followers/muzeyyenbutun?label=Follow&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/muzeyyenbutun?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=muzeyyenbutun&color=brightgreen)
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/@muzeyyenbutun)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?logo=githubpages&logoColor=white)](https://muzeyyenbutun.my.canva.site/)
 
 ---
 
@@ -103,7 +120,9 @@
 
 ### ✨ Quote of the Day
 
-> _"Code is poetry. Logic is magic. Let’s create both."_
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" width="75%"/>
+</p>
 
 ---
 
